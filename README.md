@@ -13,6 +13,7 @@ This project demonstrates how to set up a basic CI/CD pipeline using GitHub Acti
 - Git & GitHub
 - GitHub Actions
 - HTML
+- Java Script 
 
 ## Setup Instructions
 1. Clone the repo
